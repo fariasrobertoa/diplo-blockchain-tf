@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:fariasrobertoa/diplo-blockchain-frontend.git
+[submodule "contract"]
+	path = contract
+	url = git@github.com:fariasrobertoa/diplo-blockchain-contract.git
