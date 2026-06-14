@@ -1,15 +1,5 @@
 # Trabajo Final
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Blockchain.svg/512px-Blockchain.svg.png" alt="Blockchain" width="300">
-</p>
-
-<p align="center">
-  <em>Imagen: Blockchain (Wikimedia Commons - Creative Commons)</em>
-</p>
-
----
-
 # Desarrollo de Contratos Inteligentes y dApps
 
 ## Profesores
@@ -25,7 +15,7 @@
 
 ## Descripción
 
-Trabajo Final correspondiente a la materia **Desarrollo de Contratos Inteligentes y dApps**.
+Trabajo Final correspondiente a la materia **Desarrollo de Contratos Inteligentes y dApps**, de la Diplomatura:**TRANSPARENCIA Y GESTIÓN DE CREDENCIALES DIGITALES: BLOCKCHAIN Y GESTIÓN ACADÉMICA UNIVERSITARIA**
 
 El presente trabajo aborda el diseño e implementación de una solución basada en tecnología blockchain para la emisión, gestión y verificación de credenciales académicas digitales mediante Smart Contracts y Soulbound Tokens (SBTs).
 
