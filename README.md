@@ -1,3 +1,30 @@
+# Trabajo Final
+
+# Desarrollo de Contratos Inteligentes y dApps
+
+## Profesores
+
+- **Dr. David Petrocelli**
+- **Esp. Ciro Edgardo Romero**
+
+## Alumno
+
+- **Farías Roberto Adrián**
+
+---
+
+## Descripción
+
+Trabajo Final correspondiente a la materia **Desarrollo de Contratos Inteligentes y dApps**, de la Diplomatura:**TRANSPARENCIA Y GESTIÓN DE CREDENCIALES DIGITALES: BLOCKCHAIN Y GESTIÓN ACADÉMICA UNIVERSITARIA**
+
+El presente trabajo aborda el diseño e implementación de una solución basada en tecnología blockchain para la emisión, gestión y verificación de credenciales académicas digitales mediante Smart Contracts y Soulbound Tokens (SBTs).
+
+---
+
+## Año
+
+2026
+
 ## **Caso de estudio**
 
 En mayo de 2023, la Policía Federal desbarata la “Operación Alejo”: una red que había vendido más de 500 títulos secundarios y universitarios truchos, principalmente para ejercer en medicina y educación (Infobae, 2023). Dos años antes, en Río Cuarto, un chico de 19 años se hizo pasar por médico durante la pandemia usando una matrícula ajena, coordinó hisopados y reemplazó a profesionales en dispensarios (La Nación, 2021). En 2025, la Cámara Federal sigue procesando casos similares.
