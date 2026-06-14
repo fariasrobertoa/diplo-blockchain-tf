@@ -320,7 +320,7 @@ Una vez ingresado el Token ID, se invoca a la función verify del contrato a tra
 
 El frontend, el cual se encuentra esperando la respuesta, recibe estos datos y los muestra por la interfaz.
 
-Opcionalmente, el método verify podría devolver el CID de los metadatos del SBT y desde el frontend mostrar el certificado en PDF firmado digitalmente mediante jsPDF (Farabi et al, 2025).
+Opcionalmente, el método verify podría devolver el CID de los metadatos del SBT y desde el frontend mostrar el certificado en PDF firmado digitalmente(Farabi et al, 2025).
 
 ![Diagrama de Flujo de Verificación Pública](images/flujo_verificacion.png)
 
