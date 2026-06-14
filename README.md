@@ -1,3 +1,40 @@
+# Trabajo Final
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Blockchain.svg/512px-Blockchain.svg.png" alt="Blockchain" width="300">
+</p>
+
+<p align="center">
+  <em>Imagen: Blockchain (Wikimedia Commons - Creative Commons)</em>
+</p>
+
+---
+
+# Desarrollo de Contratos Inteligentes y dApps
+
+## Profesores
+
+- **Dr. David Petrocelli**
+- **Esp. Ciro Edgardo Romero**
+
+## Alumno
+
+- **Farías Roberto Adrián**
+
+---
+
+## Descripción
+
+Trabajo Final correspondiente a la materia **Desarrollo de Contratos Inteligentes y dApps**.
+
+El presente trabajo aborda el diseño e implementación de una solución basada en tecnología blockchain para la emisión, gestión y verificación de credenciales académicas digitales mediante Smart Contracts y Soulbound Tokens (SBTs).
+
+---
+
+## Año
+
+2026
+
 ## **Caso de estudio**
 
 En mayo de 2023, la Policía Federal desbarata la “Operación Alejo”: una red que había vendido más de 500 títulos secundarios y universitarios truchos, principalmente para ejercer en medicina y educación (Infobae, 2023). Dos años antes, en Río Cuarto, un chico de 19 años se hizo pasar por médico durante la pandemia usando una matrícula ajena, coordinó hisopados y reemplazó a profesionales en dispensarios (La Nación, 2021). En 2025, la Cámara Federal sigue procesando casos similares.
